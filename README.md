@@ -5,6 +5,7 @@
 - 📫 Instagram - @man.ju.nath
 - ✉️ Mail me at -  manjunathmajety@gmail.com
 - 👔 LinkedIn - https://www.linkedin.com/in/manjunath-majety-1a963b217/
+- 👨🏻‍🎓 https://manjunath-mgm.carrd.co/
 
 <!---
 ManjunathMGM/ManjunathMGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
