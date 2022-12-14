@@ -4,7 +4,7 @@
 - 🏠 I stay in Vijayawada, Andhra Pradesh, India. 
 - 📫 Instagram - @man.ju.nath
 - ✉️ Mail me at -  manjunathmajety@gmail.com
-- 👔 LinkedIn - https://www.linkedin.com/in/manjunath-majety-1a963b217/
+- 👔 LinkedIn - [https://www.linkedin.com/in/manjunath-majety-1a963b217/](https://www.linkedin.com/in/manjunathmgm/)
 - 👨🏻‍🎓 https://manjunath-mgm.carrd.co/
 
 <!---
