@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ManjunathMGM.
+- 👋 Hi, I’m @Manjunath  fj.
 - 🏫 I’m studying in SHIV NADAR UNIVERSITY, Greater Noida.
 - 👨🏻‍💻 I’m currently learning C language.
 - 🏠 I stay in Vijayawada, Andhra Pradesh, India. 
-- 📫 How to reach me Insta:- @man.ju.nath
+- 📫 Instagram - @man.ju.nath
 - ✉️ Mail me at -  manjunathmajety@gmail.com
 - 👔 LinkedIn - https://www.linkedin.com/in/manjunath-majety-1a963b217/
 
