@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manjunath  fj.
+- 👋 Hi, I’m @ManjunathMGM.
 - 🏫 I’m studying in SHIV NADAR UNIVERSITY, Greater Noida.
 - 👨🏻‍💻 I’m currently learning C language.
 - 🏠 I stay in Vijayawada, Andhra Pradesh, India. 
