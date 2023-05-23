@@ -11,7 +11,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 ## ⚡ Technologies
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manjunathmgm&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathmgm&hide=TeX&layout=compact)
