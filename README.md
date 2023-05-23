@@ -4,9 +4,9 @@ My Github Profile Readme
 
 I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home) . My passion lies in Coding and technology and I'm currently proficient in C but I am eager to learn and master new programming languages, to broaden my skill set and knowledge.
 
+# Contact - 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/manjunathmgm/)](https://www.linkedin.com/in/manjunathmgm/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mm153@snu.edu.in)](mailto:mm153@snu.edu.in)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/man.ju.nath/)](https://www.instagram.com/man.ju.nath/)
 
 
