@@ -16,7 +16,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 ![MS Word](https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
 ![MS PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![](https://img.shields.io/badge/-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manjunathmgm&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathmgm&hide=TeX&layout=compact)
