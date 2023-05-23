@@ -6,7 +6,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manjunath_MGM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjunathmgm/)](https://www.linkedin.com/in/manjunathmgm/)
 [![Gmail Badge](https://img.shields.io/badge/-mm153@snu.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mm153@snu.edu.in)](mailto:mm153@snu.edu.in)
-[!Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/man.ju.nath/)](https://www.instagram.com/man.ju.nath/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/man.ju.nath/)](https://www.instagram.com/man.ju.nath/)
 
 
 ## ⚡ Technologies
