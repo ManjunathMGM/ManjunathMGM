@@ -6,6 +6,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manjunath_MGM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjunathmgm/)](https://www.linkedin.com/in/manjunathmgm/)
 [![Gmail Badge](https://img.shields.io/badge/-mm153@snu.edu.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mm153@snu.edu.in)](mailto:mm153@snu.edu.in)
+[!Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/man.ju.nath/)](https://www.instagram.com/man.ju.nath/)
 
 
 ## ⚡ Technologies
@@ -18,6 +19,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![C](https://img.shields.io/badge/-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manjunathmgm&count_private=true&show_icons=true&include_all_commits=true)
