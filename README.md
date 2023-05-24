@@ -26,3 +26,5 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manjunathmgm&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathmgm&hide=TeX&layout=compact)
+
+[![ManjunathMGM's GitHub | Stats](https://stats.quine.sh/ManjunathMGM/github?theme=light)](https://quine.sh)
