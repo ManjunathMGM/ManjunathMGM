@@ -22,6 +22,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 ![C](https://img.shields.io/badge/-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=manjunathmgm&count_private=true&show_icons=true&include_all_commits=true)
