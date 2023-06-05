@@ -27,6 +27,7 @@ I am **Manjunath MGM**, pursuing **B.Tech in Electrical and Computer Engineering
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### :fire: My Stats :
