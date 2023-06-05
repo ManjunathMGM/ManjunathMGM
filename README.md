@@ -2,7 +2,7 @@
 My Github Profile Readme.
 ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home) . My passion lies in Coding and technology and I'm currently proficient in C but I am eager to learn and master new programming languages, to broaden my skill set and knowledge.
+I am **Manjunath MGM**, pursuing **B.Tech in Electrical and Computer Engineering** at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home) . My passion lies in Coding and technology and I'm currently proficient in C, HTML5 and I'm eager to learn and master new programming languages, to broaden my skill set and knowledge.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -26,6 +26,7 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 ![C](https://img.shields.io/badge/-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### :fire: My Stats :
