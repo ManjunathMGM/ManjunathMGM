@@ -1,6 +1,6 @@
 # ManjunathMGM
 My Github Profile Readme.
-### Hi there 👋
+### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home) . My passion lies in Coding and technology and I'm currently proficient in C but I am eager to learn and master new programming languages, to broaden my skill set and knowledge.
 
@@ -28,7 +28,9 @@ I am Manjunath MGM, pursuing B.Tech in Electrical and Computer Engineering at [S
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManjunathMGM&theme=dark&background=000000)](https://git.io/streak-stats)
+[![MGM's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManjunathMGM&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathMGM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=manjunathmgm&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathmgm&hide=TeX&layout=compact)
 
