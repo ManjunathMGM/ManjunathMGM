@@ -32,10 +32,3 @@ I am **Manjunath MGM**, pursuing **B.Tech in Electrical and Computer Engineering
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManjunathMGM&theme=dark&background=000000)](https://git.io/streak-stats)
-[![MGM's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManjunathMGM&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathMGM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
