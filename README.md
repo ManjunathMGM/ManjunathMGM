@@ -2,7 +2,7 @@
 My Github Profile Readme.
 ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am **Manjunath MGM**, pursuing **B.Tech in Electrical and Computer Engineering** at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home) . My passion lies in Coding and technology and I'm currently proficient in C, HTML5 and I'm eager to learn and master new programming languages, to broaden my skill set and knowledge.
+I am **Manjunath MGM**, pursuing **B. Tech in Electrical and Computer Engineering** at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home). My passion lies in Coding and technology and I'm currently proficient in C, HTML5 and I'm eager to learn and master new programming languages, to broaden my skill set and knowledge.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -32,3 +32,9 @@ I am **Manjunath MGM**, pursuing **B.Tech in Electrical and Computer Engineering
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 
+## 💪🏻 My Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjunathMGM&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathMGM&layout=compact)
