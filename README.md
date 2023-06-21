@@ -18,19 +18,20 @@ I am **Manjunath MGM**, pursuing **B. Tech in Electrical and Computer Engineerin
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
 ![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A.svg?style=for-the-badge&logo=Microsoft-PowerPoint&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![C](https://img.shields.io/badge/-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ## 💪🏻 My Stats
