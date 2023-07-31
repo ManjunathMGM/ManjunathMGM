@@ -1,5 +1,4 @@
  # Manjunath MGM
-My Github Profile Readme.
 ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 I am **Manjunath MGM**, pursuing **B. Tech in Electrical and Computer Engineering** at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home). My passion lies in Coding and technology and I'm currently proficient in C Language and started to explore Web Development. I'm eager to learn and master new programming languages, to broaden my skill set and knowledge.
