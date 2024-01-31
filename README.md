@@ -2,7 +2,7 @@
 ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 I am **MGM Manjunath**, pursuing **B. Tech in Electrical and Computer Engineering** at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home). My passion lies in Technology and Entrepreneurship, currently proficient in C Language and a pinch of Front-end Web dev and Python, always ready for exciting collaborations and projects. </br>
-Areas of interest include **Machine Learning, Data Science/Analytics, and Prompt Engineering.** Let's ideate and explore together
+Areas of interest include **Machine Learning, Data Science/Analytics, Prompt Engineering, and Digital Electronics** Let's ideate and explore together
 
 
 
