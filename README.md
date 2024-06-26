@@ -4,7 +4,7 @@
 I am **MGM Manjunath**, currently a third-year student at [Shiv Nadar University, Delhi NCR](https://snu.edu.in/home), majoring in Electrical and Computer Engineering with a minor in Communication. Throughout my academic journey, I have developed a profound interest in areas such as Artificial Intelligence, Prompt Engineering, Data, Electronics, and Marketing.
 </br></br>
 My technical skills include proficiency in C language, Python, and a pinch of front-end web development. I have also delved into data analytics, marketing, and prompt engineering, which have broadened my understanding and capabilities in different areas. </br></br>
-Currently, I am particularly interested in exploring the domains of electronics, especially VLSI and FPGA. I am eager to deepen my knowledge and gain hands-on experience in these fields. I have been actively learning and experimenting with various technologies, and I am always enthusiastic about connecting and collaborating with individuals with similar interests. 
+Currently, **I am particularly interested in exploring the domains of electronics, especially VLSI and FPGA.** I am eager to deepen my knowledge and gain hands-on experience in these fields. I have been actively learning and experimenting with various technologies, and I am always enthusiastic about connecting and collaborating with individuals with similar interests. 
 </br>
 
 <div id="header" align="center">
